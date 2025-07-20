@@ -1,6 +1,6 @@
 # Sistem Rekomendasi Kursus Online
 
-**Nama:** Keisha Hernantya Zahra
+**Nama: Keisha Hernantya Zahra**
 
 **Sisters in Tech by RISTEK Fasilkom UI 2025**
 
